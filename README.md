@@ -1,2 +1,2 @@
 # git_learning
-We are learning Git
+We are learning Git.
