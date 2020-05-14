@@ -4,6 +4,7 @@
 int main(int argc, char** argv)
 {
 	printf(HELLO"\n");
+	printf(HELLO"\n");
 	
 	return 0;
 }
